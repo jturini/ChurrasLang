@@ -1,0 +1,9 @@
+INICIAR_CHURRAS
+  DESPENSA
+    porcoes: COXINHA;
+    molho: LASANHA;
+  COZINHAR
+    PROVAR molho;
+    porcoes = 3 + 2 - 1;
+    SERVIR porcoes;
+FIM_CHURRAS
