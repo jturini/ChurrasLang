@@ -49,4 +49,4 @@ INICIAR_CHURRAS
 
        SERVIR "O custo por pessoa sera de:";
        SERVIR custo_por_pessoa;
-FIM_CHURRAS
+FIM_CHURRASa
