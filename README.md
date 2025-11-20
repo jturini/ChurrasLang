@@ -35,18 +35,3 @@ Compilador para uma linguagem de programação simplificada chamada **ChurrasLan
 
 ![GUI do compilador](image.png)
 
-## 📝 Exemplo de Código
-INICIAR_CHURRAS
-    DESPENSA
-       convidados : PICANHA;
-       custo_por_pessoa : ARROZ;
-    COZINHAR
-       SERVIR "Calculadora de Custo do Churrasco";
-       SERVIR "Digite o numero de convidados:";
-       PROVAR convidados;
-
-       custo_por_pessoa = 750.50 / convidados;
-
-       SERVIR "O custo por pessoa sera de:";
-       SERVIR custo_por_pessoa;
-FIM_CHURRASa
